@@ -1,0 +1,6 @@
+[submodule "learnt-client"]
+	path = learnt-client
+	url = https://github.com/Rafhathdana/learnt-client.git
+[submodule "learnt-server"]
+	path = learnt-server
+	url = https://github.com/Rafhathdana/learnt-server.git
